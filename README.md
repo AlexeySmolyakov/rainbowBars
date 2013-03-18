@@ -13,9 +13,9 @@ Browser support: IE 9+, Firefox 18+, Chrome 24+, Safari 5.1+, Opera 12.1+ and ma
 ## Usage
 1. Attach rainbowBars.js file or minified version rainbowBars.min.js.
 
-     ```html
-     <script src="rainbowBars.js" type="text/javascript"></script>
-     ```
+```html
+<script src="rainbowBars.js" type="text/javascript"></script>
+```
 
 2. Create rainbow canvas.
      
