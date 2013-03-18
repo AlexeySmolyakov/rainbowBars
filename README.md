@@ -1,6 +1,6 @@
 # Rainbow Bars
 
-Javascript plugin to color web (c) 2013 Alexey Smolyakov (alexey.smolyakov@meander-studio.ru)
+Javascript plugin to color web (c) 2013 Alexey Smolyakov (alexey.smolyakov@meander-studio.ru)<br>
 Released under Creative Commons Attribution-ShareAlike 3.0
 
 ## Overview
