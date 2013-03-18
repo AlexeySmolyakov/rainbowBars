@@ -1,0 +1,71 @@
+#rainbow {
+    height: 150px;
+    width: 100%;
+    overflow:hidden;
+    box-shadow: 0 0 5px 0 #000;
+    position: relative;
+    background-image: url(../patterns/pattern_042.png);
+}
+body {
+    margin:0;
+    text-align: center;
+    background-image: url(../patterns/pattern_008.png);
+    font-family: "PT Sans", Arial, sans-serif;
+    color: #333;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 25px;
+    padding-left: 0;
+}
+h1 {
+    font-size: 54pt;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    text-align: center;
+    position: relative;
+}
+h1 img {
+    position: relative;
+    vertical-align: top;
+    margin-top: 20px;
+}
+h2 {
+    margin: 0px;
+    color: #999;
+    font-weight: normal;
+    text-align: center;
+    margin-top: -10px;
+}
+h3 {
+    margin-bottom: 8px;
+}
+.canvas {
+    width: 600px;
+    text-align: left;
+    display: inline-block;
+}
+code {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 10pt;
+    color: #FFF;
+    background-color: #141414;
+    box-shadow: 0px 0px 3px 0px #333;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: block;
+}
+.link {
+    color: #000;
+    text-decoration: none;
+    border-bottom-width: 1px;
+    border-bottom-style: dotted;
+    border-bottom-color: #333;
+}
+pre {
+    margin: 0;
+    padding: 0;
+}
+img {
+    border: 0;
+}
