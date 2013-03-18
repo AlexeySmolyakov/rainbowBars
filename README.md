@@ -53,7 +53,10 @@ Browser support: IE 9+, Firefox 18+, Chrome 24+, Safari 5.1+, Opera 12.1+ and ma
      ```
      
 Complete code example.
-window.addEventListener("load",function(){
-    RB.Init("rainbow");
-    RB.Start();
-}, false);
+
+     ```javascript
+     window.addEventListener("load",function(){
+         RB.Init("rainbow");
+         RB.Start();
+     }, false);
+     ```
