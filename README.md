@@ -24,7 +24,9 @@ Browser support: IE 9+, Firefox 18+, Chrome 24+, Safari 5.1+, Opera 12.1+ and ma
      ```
 
    Also you can set background color (black is set by default).
+     ```javascript
      RB.Init("rainbow", "#f60");
+     ```
 3. Start rainbow bars animation.
      RB.Start();
    Stop rainbow bars animation.
