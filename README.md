@@ -12,7 +12,9 @@ Plugin uses HTML5 Canvas. Browser support: IE 9+, Firefox 18+, Chrome 24+, Safar
 
 ## Usage
 1. Attach rainbowBars.js file or minified version rainbowBars.min.js.
+
      `<script src="rainbowBars.js" type="text/javascript"></script>`
+
 2. Create rainbow canvas.
      RB.Init("rainbow");
    Also you can set background color (black is set by default).
