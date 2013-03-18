@@ -7,7 +7,8 @@ Released under Creative Commons Attribution-ShareAlike 3.0
 Rainbow Bars is a simple js plugin, generating rainbow bars within canvas element and making them animate with the help of setInterval. Again, it is simple.
 
 ## Support
-Plugin uses HTML5 Canvas. Browser support: IE 9+, Firefox 18+, Chrome 24+, Safari 5.1+, Opera 12.1+ and major up-to-date mobile browsers.
+Plugin uses HTML5 Canvas.<br>
+Browser support: IE 9+, Firefox 18+, Chrome 24+, Safari 5.1+, Opera 12.1+ and major up-to-date mobile browsers.
 
 ## Usage
 1. Attach rainbowBars.js file or minified version rainbowBars.min.js.
