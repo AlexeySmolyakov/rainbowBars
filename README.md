@@ -13,9 +13,9 @@ Browser support: IE 9+, Firefox 18+, Chrome 24+, Safari 5.1+, Opera 12.1+ and ma
 ## Usage
 1. Attach rainbowBars.js file or minified version rainbowBars.min.js.
 
-```html
-<script src="rainbowBars.js" type="text/javascript"></script>
-```
+     ```html
+     <script src="rainbowBars.js" type="text/javascript"></script>
+     ```
 
 2. Create rainbow canvas.
      
@@ -24,20 +24,34 @@ Browser support: IE 9+, Firefox 18+, Chrome 24+, Safari 5.1+, Opera 12.1+ and ma
      ```
 
    Also you can set background color (black is set by default).
+   
      ```javascript
      RB.Init("rainbow", "#f60");
      ```
+     
 3. Start rainbow bars animation.
+
+     ```javascript
      RB.Start();
+     ```
+     
    Stop rainbow bars animation.
+   
+     ```javascript
      RB.Stop();
+     ```
+     
 4. Options (set by default).
+
+     ```javascript
      // interval time in milliseconds 
      RB.ms = 70;
      // amount of animating stripes
      RB.animatingStripesCount = 10;
      // opacity step to change every Draw() call
      RB.opacityStep = 0.02;
+     ```
+     
 Complete code example.
 window.addEventListener("load",function(){
     RB.Init("rainbow");
